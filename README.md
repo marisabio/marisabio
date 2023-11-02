@@ -3,15 +3,12 @@
 </h1>
 
 <div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/marisabio/react-cep/master/src/carinha.gif" title="Carinha" alt="Nerd Emoji" width="200"/>
+  <img src="https://raw.githubusercontent.com/marisabio/react-cep/master/src/carinha.gif" title="Carinha" alt="Nerd Emoji" width="300"/>
 </div>
 
 ---
   
-### :woman_technologist: 
-
-Estudante de Análise e Desenvolvimento de Sistemas na FIAP, com particular interesse em Back-End e DevOps.
-
+#### Estudante de Análise e Desenvolvimento de Sistemas na FIAP, com particular interesse em Back-End e DevOps. :woman_technologist: 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -26,5 +23,6 @@ Estudante de Análise e Desenvolvimento de Sistemas na FIAP, com particular inte
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
+
 
 
