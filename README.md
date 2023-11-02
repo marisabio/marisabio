@@ -8,7 +8,7 @@
 
 ---
   
-#### Estudante de Análise e Desenvolvimento de Sistemas na FIAP, com particular interesse em Back-End e DevOps. :woman_technologist: 
+**Estudante de Análise e Desenvolvimento de Sistemas na FIAP, com particular interesse em Back-End e DevOps. :woman_technologist:**
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
