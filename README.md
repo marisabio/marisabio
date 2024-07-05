@@ -1,10 +1,6 @@
 
 **Estudante de Análise e Desenvolvimento de Sistemas na FIAP, com particular interesse em Back-End e DevOps. :woman_technologist:**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marisabio&layout=compact&theme=vision-friendly-dark"/>
-</div>
-
 <br/>
 
 <div align="center">
