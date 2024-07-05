@@ -1,13 +1,4 @@
-<h1>
-  Olá!
-</h1>
 
-<div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/marisabio/react-cep/master/src/carinha.gif" title="Carinha" alt="Nerd Emoji" width="300"/>
-</div>
-
----
-  
 **Estudante de Análise e Desenvolvimento de Sistemas na FIAP, com particular interesse em Back-End e DevOps. :woman_technologist:**
 
 <div align="center">
