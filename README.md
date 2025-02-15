@@ -1,5 +1,5 @@
 
-**Estudante de Análise e Desenvolvimento de Sistemas na FIAP, com particular interesse em Back-End e DevOps. :woman_technologist:**
+**:woman_technologist:**
 
 <br/>
 
